@@ -1,7 +1,7 @@
-public class Pattern {
+public class firstPattern {
     static void createPattern() {
         int i = 0;
-        while(i<20){
+        while(i<10){
             System.out.print("*");
             int j = 0;
             while(j<i){
