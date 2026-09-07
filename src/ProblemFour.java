@@ -1,0 +1,13 @@
+import java.util.*;
+public class ProblemFour {
+    public static void main(String[]args){
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter your number: ");
+        int n = sc.nextInt();
+        for(int i = 1; i<=10; i++){
+            int multiplication = n*i;
+            System.out.println(n+" x "+ i+ " = "+ multiplication);
+        }
+        sc.close();
+    }
+}
