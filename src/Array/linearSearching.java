@@ -1,4 +1,5 @@
-package Array;//Take an array as input from the user. Search for a given number x and print the index at which it occurs.
+package Array;
+//Take an array as input from the user. Search for a given number x and print the index at which it occurs.
 
 import java.util.*;
 public class linearSearching {
