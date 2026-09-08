@@ -1,3 +1,5 @@
+package Array;
+
 public class secondLargest {
     public static void main(String[] args) {
         int[] myArr = {-0, -83, -62, -2222, -69, -100, -12, -10000, -6969};

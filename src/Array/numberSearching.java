@@ -1,3 +1,5 @@
+package Array;
+
 import java.util.Scanner;
 public class numberSearching{
     public static void main(String[] args) {

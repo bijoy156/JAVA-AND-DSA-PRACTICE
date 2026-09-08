@@ -1,6 +1,8 @@
+package Mathematics;
+
 import java.util.Scanner;
 
-public class Fact {
+public class Factorial {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter the number: ");
