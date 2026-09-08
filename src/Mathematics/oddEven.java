@@ -1,5 +1,4 @@
 package Mathematics;
-
 import java.util.Scanner;
 public class oddEven {
     public static void main(String[] args) {
