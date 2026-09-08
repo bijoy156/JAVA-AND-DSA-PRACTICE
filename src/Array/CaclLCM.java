@@ -1,5 +1,7 @@
+package Array;
+
 import java.util.Scanner;
-public class lcm {
+public class CaclLCM {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter your first number: ");
