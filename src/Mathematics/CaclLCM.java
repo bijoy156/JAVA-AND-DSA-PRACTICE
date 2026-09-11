@@ -1,4 +1,4 @@
-package Array;
+package Mathematics;
 
 import java.util.Scanner;
 public class CaclLCM {
