@@ -5,7 +5,7 @@ public class sorted {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of elements: ");
         int size = sc.nextInt();
-        int arr[] = new int[size];
+        int[] arr = new int[size];
         for (int i = 0; i < size; i++) {
             arr[i] = sc.nextInt();
         }
