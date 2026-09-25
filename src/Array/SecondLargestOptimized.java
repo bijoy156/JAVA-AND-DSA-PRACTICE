@@ -1,8 +1,7 @@
 package Array;
-public class SecondLargestOptimized {
- //ONLY THE ALGORITHM
-}
-class Solution {
+//ONLY THE ALGORITHM
+
+class SecondLargestOptimized {
     public int secondLargestElement(int[] arr) {
         int largest = arr[0];
         int SecondLargest = Integer.MIN_VALUE;
